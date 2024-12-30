@@ -54,7 +54,7 @@ export default function AboutPage() {
                   experience level, available time, budget, and personal interests.
                 </p>
                 <p>
-                  Whether you're looking to learn new skills, meet like-minded people, or simply find a 
+                  Whether you&apos;re looking to learn new skills, meet like-minded people, or simply find a 
                   way to relax and unwind, HobbyFinder is here to guide you on your journey of discovery.
                 </p>
               </section>

@@ -49,7 +49,7 @@ export default function AboutPage() {
                   Our Approach
                 </h2>
                 <p className="mb-4">
-                  We understand that finding the right hobby can be overwhelming. That's why we've created 
+                  We understand that finding the right hobby can be overwhelming. That&apos;s why we&apos;ve created 
                   a simple yet effective platform that takes into account various factors such as your 
                   experience level, available time, budget, and personal interests.
                 </p>

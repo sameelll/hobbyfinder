@@ -2,7 +2,6 @@
 
 import React, { useState } from 'react'
 import Link from 'next/link'
-import Image from 'next/image'
 import type { HobbyRecommendation } from '../../types/hobby'
 import { hobbyDatabase } from '../../data/hobbies'
 import Header from '../../components/Header'
@@ -224,7 +223,7 @@ export default function QuizPage() {
 
               <div className="text-center border-t border-slate-200 dark:border-slate-700 pt-6">
                 <p className="text-slate-600 dark:text-slate-300 text-sm mb-4">
-                  Haven't found what you're looking for?
+                  Haven&apos;t found what you&apos;re looking for?
                 </p>
                 <Link
                   href="/library"
